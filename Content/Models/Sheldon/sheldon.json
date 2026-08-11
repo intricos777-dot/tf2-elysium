@@ -1,0 +1,11 @@
+{
+  "name": "Sheldon",
+  "type": "popup-npc-model-stub",
+  "texture": "none",
+  "animations": {
+    "popup": "pops out of nowhere",
+    "speak": "looks directly at you",
+    "disappear": "is gone as if never there"
+  },
+  "note": "Do not ask about the turtle. He will not elaborate."
+}

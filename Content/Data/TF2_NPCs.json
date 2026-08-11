@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Sheldon",
+    "type": "popup-npc",
+    "quotes": ["I like turtles"],
+    "model": "Content/Models/Sheldon/sheldon.gltf",
+    "popup": {
+      "minIntervalSeconds": 30,
+      "maxIntervalSeconds": 120,
+      "durationSeconds": 8,
+      "unskippable": false
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": false,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "holds coconut and says nothing"
+    },
+    "voice": {
+      "pitch": 0.9,
+      "energy": "calm",
+      "memorable": true
+    }
+  }
+]
