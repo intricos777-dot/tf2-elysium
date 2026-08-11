@@ -1,0 +1,9 @@
+{
+  "mode": "ctf",
+  "layout": "medium",
+  "teams": [
+    "RED",
+    "BLU"
+  ],
+  "coconut": "hidden near intel"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ctf",
+    "teams": 2,
+    "playersPerTeam": 12
+  },
+  {
+    "name": "payload",
+    "teams": 2,
+    "playersPerTeam": 12
+  },
+  {
+    "name": "arena",
+    "teams": 2,
+    "playersPerTeam": 8
+  },
+  {
+    "name": "king_of_the_hill",
+    "teams": 2,
+    "playersPerTeam": 12
+  }
+]

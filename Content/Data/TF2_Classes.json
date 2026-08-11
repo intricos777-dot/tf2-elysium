@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Scout",
+    "role": "offense",
+    "hp": 125,
+    "speed": 133
+  },
+  {
+    "name": "Soldier",
+    "role": "offense",
+    "hp": 200,
+    "speed": 80
+  },
+  {
+    "name": "Pyro",
+    "role": "offense",
+    "hp": 175,
+    "speed": 100
+  },
+  {
+    "name": "Demoman",
+    "role": "defense",
+    "hp": 175,
+    "speed": 93
+  },
+  {
+    "name": "Heavy",
+    "role": "defense",
+    "hp": 300,
+    "speed": 77
+  },
+  {
+    "name": "Engineer",
+    "role": "defense",
+    "hp": 125,
+    "speed": 100
+  },
+  {
+    "name": "Medic",
+    "role": "support",
+    "hp": 150,
+    "speed": 107
+  },
+  {
+    "name": "Sniper",
+    "role": "support",
+    "hp": 125,
+    "speed": 100
+  },
+  {
+    "name": "Spy",
+    "role": "support",
+    "hp": 125,
+    "speed": 107
+  }
+]

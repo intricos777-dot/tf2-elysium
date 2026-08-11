@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2Fort",
+    "mode": "ctf",
+    "layout": "medium"
+  },
+  {
+    "name": "Dustbowl",
+    "mode": "payload/attack-defend",
+    "layout": "large"
+  },
+  {
+    "name": "Gravel Pit",
+    "mode": "attack-defend",
+    "layout": "large"
+  }
+]

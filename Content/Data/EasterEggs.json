@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Coconut",
+    "map": "all",
+    "type": "pickup",
+    "spawn": "random",
+    "hint": "If you see a coconut, you're on the right track.",
+    "interactions": [
+      "carry",
+      "throw",
+      "explode-on-hit",
+      "taunt-dance"
+    ]
+  }
+]

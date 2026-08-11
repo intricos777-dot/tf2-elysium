@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Scattergun",
+    "class": "Scout",
+    "damage": 60,
+    "fireRate": 1.0
+  },
+  {
+    "name": "Rocket Launcher",
+    "class": "Soldier",
+    "damage": 90,
+    "splash": true
+  },
+  {
+    "name": "Flamethrower",
+    "class": "Pyro",
+    "damage": 12,
+    "splash": true
+  },
+  {
+    "name": "Grenade Launcher",
+    "class": "Demoman",
+    "damage": 100,
+    "splash": true
+  },
+  {
+    "name": "Minigun",
+    "class": "Heavy",
+    "damage": 10,
+    "fireRate": 10.0
+  },
+  {
+    "name": "Shotgun",
+    "class": "Engineer",
+    "damage": 60,
+    "fireRate": 0.8
+  },
+  {
+    "name": "Medi Gun",
+    "class": "Medic",
+    "healPerSec": 72,
+    "ubercharge": true
+  },
+  {
+    "name": "Sniper Rifle",
+    "class": "Sniper",
+    "damage": 150,
+    "charge": true
+  },
+  {
+    "name": "Revolver",
+    "class": "Spy",
+    "damage": 60,
+    "backstab": true
+  }
+]

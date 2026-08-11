@@ -1,0 +1,17 @@
+{
+  "name": "Coconut",
+  "type": "easter-egg-pickup",
+  "model": "Content/Models/Coconut/coconut.gltf",
+  "physics": {"mass": 0.4, "bouncy": 0.8, "breakable": true},
+  "description": "A mysterious coconut that keeps showing up in every map. Nobody knows why.",
+  "firstSeen": "2fort intel room (hidden behind the fan)",
+  "rewards": {
+    "kill": "hear a faint 'thunk'",
+    "taunt": "plays the Coconut Song",
+    "carryToPoint": "grants the 'Coconut Problem' achievement"
+  },
+  "metadata": {
+    "origin": "living_sin easter egg protocol",
+    "persistsAcrossMatches": true
+  }
+}
