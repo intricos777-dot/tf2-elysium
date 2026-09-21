@@ -21,5 +21,140 @@
       "energy": "calm",
       "memorable": true
     }
+  },
+  {
+    "name": "The Administrator",
+    "type": "popup-npc",
+    "quotes": [
+      "The Administrator thanks you for your team's contribution.",
+      "Eliminating the enemy's intelligence is your primary directive.",
+      "The Administrator, out."
+    ],
+    "model": "Content/Models/Administrator/administrator.gltf",
+    "popup": {
+      "minIntervalSeconds": 60,
+      "maxIntervalSeconds": 240,
+      "durationSeconds": 6,
+      "unskippable": true
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": false,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "files it under 'inquisitive'"
+    },
+    "voice": {
+      "pitch": 0.75,
+      "energy": "authoritative",
+      "memorable": true
+    }
+  },
+  {
+    "name": "Saxton Hale",
+    "type": "popup-npc",
+    "quotes": [
+      "Saxton Hale. CEO of Mann Co. You may know me from my enormous nose.",
+      "Nobody dies in my company!",
+      "Gravel wars: my way of saying 'I love money'."
+    ],
+    "model": "Content/Models/SaxtonHale/saxton_hale.gltf",
+    "popup": {
+      "minIntervalSeconds": 60,
+      "maxIntervalSeconds": 240,
+      "durationSeconds": 6,
+      "unskippable": false
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": true,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "declares war on it"
+    },
+    "voice": {
+      "pitch": 0.7,
+      "energy": "booming",
+      "memorable": true
+    }
+  },
+  {
+    "name": "Gray Mann",
+    "type": "popup-npc",
+    "quotes": [
+      "I am Gray Mann — the brother you forgot.",
+      "Machines don't mourn. Machines don't negotiate. Machines win.",
+      "The Mann family name dies with me — after I have crushed my brothers' heirs."
+    ],
+    "model": "Content/Models/GrayMann/gray_mann.gltf",
+    "popup": {
+      "minIntervalSeconds": 90,
+      "maxIntervalSeconds": 300,
+      "durationSeconds": 5,
+      "unskippable": true
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": false,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "orders a robot to carry it away"
+    },
+    "voice": {
+      "pitch": 0.6,
+      "energy": "cold",
+      "memorable": true
+    }
+  },
+  {
+    "name": "Merasmus the Magician",
+    "type": "popup-npc",
+    "quotes": [
+      "I am Merasmus, the Great and Powerful... and I regret nothing.",
+      "Bringing demons into the realm — as is tradition!",
+      "Soldier! You will never call me that again!"
+    ],
+    "model": "Content/Models/Merasmus/merasmus.gltf",
+    "popup": {
+      "minIntervalSeconds": 90,
+      "maxIntervalSeconds": 300,
+      "durationSeconds": 6,
+      "unskippable": false
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": true,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "turns it into a toad"
+    },
+    "voice": {
+      "pitch": 1.15,
+      "energy": "theatrical",
+      "memorable": true
+    }
+  },
+  {
+    "name": "Miss Pauling",
+    "type": "popup-npc",
+    "quotes": [
+      "I don't get paid enough for this.",
+      "The Administrator wants those robots gone yesterday.",
+      "I'll handle the paperwork. You handle the explosions."
+    ],
+    "model": "Content/Models/MissPauling/miss_pauling.gltf",
+    "popup": {
+      "minIntervalSeconds": 90,
+      "maxIntervalSeconds": 300,
+      "durationSeconds": 5,
+      "unskippable": false
+    },
+    "behavior": {
+      "spawnsRandomly": true,
+      "wanders": false,
+      "disappearsAfterQuote": true,
+      "reactsToCoconut": "makes a note and files it"
+    },
+    "voice": {
+      "pitch": 1.0,
+      "energy": "tired-professional",
+      "memorable": true
+    }
   }
 ]

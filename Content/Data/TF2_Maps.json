@@ -6,12 +6,77 @@
   },
   {
     "name": "Dustbowl",
-    "mode": "payload/attack-defend",
+    "mode": "attack-defend",
     "layout": "large"
   },
   {
     "name": "Gravel Pit",
     "mode": "attack-defend",
     "layout": "large"
+  },
+  {
+    "name": "cp_granary",
+    "mode": "control-point",
+    "layout": "medium"
+  },
+  {
+    "name": "cp_well",
+    "mode": "control-point",
+    "layout": "medium"
+  },
+  {
+    "name": "cp_dustbowl",
+    "mode": "attack-defend",
+    "layout": "large"
+  },
+  {
+    "name": "pl_goldrush",
+    "mode": "payload",
+    "layout": "large"
+  },
+  {
+    "name": "pl_badwater",
+    "mode": "payload",
+    "layout": "large"
+  },
+  {
+    "name": "pl_upward",
+    "mode": "payload",
+    "layout": "large"
+  },
+  {
+    "name": "koth_viaduct",
+    "mode": "king-of-the-hill",
+    "layout": "medium"
+  },
+  {
+    "name": "koth_harvest",
+    "mode": "king-of-the-hill",
+    "layout": "medium"
+  },
+  {
+    "name": "koth_nucleus",
+    "mode": "king-of-the-hill",
+    "layout": "small"
+  },
+  {
+    "name": "ctf_turbine",
+    "mode": "ctf",
+    "layout": "medium"
+  },
+  {
+    "name": "tc_hydro",
+    "mode": "territorial-control",
+    "layout": "large"
+  },
+  {
+    "name": "sd_doomsday",
+    "mode": "special-delivery",
+    "layout": "medium"
+  },
+  {
+    "name": "arena_watchtower",
+    "mode": "arena",
+    "layout": "small"
   }
 ]

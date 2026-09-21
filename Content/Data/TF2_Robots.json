@@ -1,0 +1,26 @@
+{
+  "source": "Team Fortress 2 — Mann vs. Machine (Gray Mann's robot uprising)",
+  "storyline": "Gray Mann, the third Mann brother the world forgot, spent a century in a German garden perfecting machines that speak only in ordnance. When the Administrator's gravel war went quiet, his robots marched from the Mann family mines. Saxton Hale punched the first one. The rest kept coming.",
+  "classes": {
+    "note": "The nine mercenaries of RED and BLU — the last line between Teufort and the robot horde."
+  },
+  "robots": [
+    {"name":"Scout Bot","role":"front-runner","health":100,"speed":1.6,"note":"Gray's fastest cannon fodder"},
+    {"name":"Soldier Bot","role":"rocket salvo","health":250,"speed":1.1},
+    {"name":"Pyro Bot","role":"flame rush","health":300,"speed":1.2},
+    {"name":"Demoman Bot","role":"grenade spam","health":280,"speed":1.0},
+    {"name":"Heavy Bot","role":"minigun wall","health":800,"speed":0.7},
+    {"name":"Engineer Bot","role":"teleporter + sentry","health":200,"speed":1.0,"note":"builds mini-sentries mid-wave"},
+    {"name":"Medic Bot","role":"heal + uber","health":200,"speed":1.1},
+    {"name":"Sniper Bot","role":"ranged execute","health":150,"speed":1.0},
+    {"name":"Spy Bot","role":"infiltration + sap","health":150,"speed":1.2},
+    {"name":"Giant Heavy Bot","role":"boss swarmer","health":8000,"speed":0.5},
+    {"name":"Giant Soldier Bot","role":"rocket volley dome","health":6000,"speed":0.5},
+    {"name":"Sentry Buster","role":"kamikaze","health":1200,"speed":1.4,"note":"detonates on the nearest sentry gun"},
+    {"name":"Tank","role":"bomb carrier","health":4000,"speed":0.45,"note":"carries the bomb to the gate; armor soaks crits"}
+  ],
+  "bosses": [
+    {"name":"Gray Mann","role":"the third brother","health":0,"note":"never fights — the mines never mattered, only the harvest"},
+    {"name":"Merasmus the Magician","role":"demon-summoning wizard","health":0,"note":"appears to mock, not to fight"}
+  ]
+}
